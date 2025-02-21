@@ -1,0 +1,1 @@
+importScripts('https://push.pushbase.org/serviceWorker');
